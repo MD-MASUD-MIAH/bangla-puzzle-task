@@ -14,11 +14,12 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="col-span-1 md:col-span-2">
-            <button type="button" className="block mb-5 cursor-pointer">
+            <button className="flex items-center">
               <img
                 alt="thetiny.site"
-                className="h-[34px] w-auto object-contain"
+                className="object-contain"
                 src={logo}
+                style={{ height: 64, width: "auto" }}
               />
             </button>
 
