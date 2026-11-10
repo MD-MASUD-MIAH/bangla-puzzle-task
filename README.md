@@ -12,7 +12,7 @@ This project is a pixel-perfect, fully responsive clone of the homepage of [thet
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Pixel-Accurate UI:** Matched layout, typography, exact color tokens, and paddings from the reference site.
 - **Fully Responsive Design:** Optimized mobile menu drawer, multi-column grid adaptations, and fluid viewport scaling across mobile, tablet, and desktop screens.
@@ -27,7 +27,7 @@ This project is a pixel-perfect, fully responsive clone of the homepage of [thet
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** React.js (Vite)
 - **Styling:** Tailwind CSS
@@ -36,7 +36,7 @@ This project is a pixel-perfect, fully responsive clone of the homepage of [thet
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 To run this project on your local machine, follow these steps:
 
